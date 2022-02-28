@@ -3,7 +3,7 @@ This is my go to notes whenever i want to start a project.
 
 will update the notebook from time to time
 
-the mos frequently use library by me
+the most frequently use library by me
 Import numpy as np
 Import pandas as pd
 Import matplatlib.pyplot as plt
